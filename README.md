@@ -2,6 +2,8 @@
 
 A bunch of files and stuff related to investiaging speeding up npm@3
 
+See also https://github.com/npm/npm/issues/8826
+
 ## Files
 
 ### Install information
